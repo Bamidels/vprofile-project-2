@@ -13,7 +13,7 @@ tools {
 	// NEXUS_REPO_ID    = "vprofile-release"
     //     NEXUS_CREDENTIAL_ID = "nexuslogin"
     //     ARTVERSION = "${env.BUILD_ID}"
-    // } //////////
+    // } 
 	
     stages{
         
